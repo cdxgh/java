@@ -1,9 +1,10 @@
 public class Main {
     public static void main(String[] arr){
-        System.out.println("Hello Hammad");
-        System.out.println(10+5);
-        System.out.println(94904);
-        System.out.println(8899);
+        int a = 5;
+        System.out.println(a);
+        int v=4;
+        System.out.println(v);
+        System.out.println(v+a);
 
     }
 }
