@@ -1,10 +1,8 @@
 public class Main {
-    public static void main(String[] arr){
-        int a = 5;
-        System.out.println(a);
-        int v=4;
-        System.out.println(v);
-        System.out.println(v+a);
-
+    public static void main(String[] args) {
+        // Uncommented part
+        String result = "30"; // String containing a number
+        Integer res = Integer.parseInt(result); // Convert string to integer
+        System.out.println(res + 30); // Output: 60
     }
 }
